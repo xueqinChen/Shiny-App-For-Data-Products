@@ -1,0 +1,21 @@
+---
+title: "include"
+author: "Anna"
+date: "2017/1/8"
+output: html_document
+---
+### Overview
+This app is based on the statistical inference project
+
+It investigate the exponential distribution in R and compare it with the Central Limit Theorem. The report will conpare exponential distribution sample mean and variance to the theoretical mean and variance of the distuibution.
+
+### Input
+This app have three parameters;
+ * lambda is the rate parameter
+ * number of simulations,
+ * number of observations for exp
+
+### Output
+ * The plots shows the the two figure almost is the same. The sample mean is very close to thoretical mean. 
+ * The theoretical and sample values of variance of the average of the exponentials, which should be very close.
+ * The figure clearly show that the exponential distribution is close to normal distribution.
